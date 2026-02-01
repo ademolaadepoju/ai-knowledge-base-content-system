@@ -1,6 +1,6 @@
 # GothPay Knowledge Base - Document Catalog
 
-This knowledge base contains documentation for GothPay, a consumer payment application. These documents serve as the source material for the AI-powered customer support assistant.
+This knowledge base contains documentation for GothPay, a conceptual consumer payment application. These documents serve as the source material for the AI-powered customer support assistant.
 
 ## Document Inventory
 
