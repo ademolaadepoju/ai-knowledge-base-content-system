@@ -13,7 +13,7 @@
    - What problem this solves
    - Key features and results
 
-2. **[project-summary.md](portfolio-summary.md)** (10 min read)
+2. **[project-summary.md](project-summary.md)** (10 min read)
    - Executive summary
    - Skills demonstrated
    - Business impact
@@ -73,7 +73,7 @@ testing/
 
 ### "I'm a hiring manager reviewing this project"
 **Read (15 minutes total):**
-1. [project-summary.md](portfolio-summary.md) - Executive summary
+1. [project-summary.md](project-summary.md) - Executive summary
 2. [testing/test-results.md](testing/test-results.md) - See quality validation
 3. [content-system/01-response-templates.md](content-system/01-response-templates.md) - Example of the work
 
