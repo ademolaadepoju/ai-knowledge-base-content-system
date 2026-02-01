@@ -688,24 +688,24 @@ We'll also flag this conversation for our documentation team to review.
 ### What to Measure
 
 **User Satisfaction:**
-- Overall thumbs up rate (target: 75%+)
+- Overall thumbs up rate 
 - Thumbs up rate by document (identify weak content)
 - Repeat question rate (if user re-asks, first answer failed)
 
 **Content Coverage:**
-- % of questions with high-confidence answers (target: 70%+)
-- % of questions with no documentation (target: <10%)
-- Time to add documentation for gaps (target: <30 days)
+- % of questions with high-confidence answers 
+- % of questions with no documentation 
+- Time to add documentation for gaps 
 
 **Documentation Quality:**
 - Average document age (target: <6 months)
-- Outdated flags per document (target: <5 per month)
-- Accuracy reports per document (target: <3 per month)
+- Outdated flags per document 
+- Accuracy reports per document 
 
 **Feedback Volume:**
-- Feedback submission rate (target: 20-30% of responses)
-- Detailed feedback rate (target: 50%+ of negative feedback)
-- Admin action completion rate (target: 80%+ within SLA)
+- Feedback submission rate
+- Detailed feedback rate 
+- Admin action completion rate 
 
 ---
 
