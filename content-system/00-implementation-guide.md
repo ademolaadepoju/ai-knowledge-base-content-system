@@ -9,7 +9,7 @@
 
 ### What This System Does
 
-The AI Knowledge Base Assistant provides accurate, sourced answers to user questions by:
+The AI Knowledge Base Assistant is set up to provide accurate, sourced answers to user questions by:
 
 1. **Searching** a curated knowledge base of official documentation
 2. **Evaluating** source quality and freshness
@@ -251,7 +251,7 @@ Was this helpful?
 
 ---
 
-## Edge Case Handling
+## Handling Edge Cases
 
 ### Case 1: Outdated Documentation
 
@@ -447,7 +447,7 @@ Each response scored on 6 dimensions (1-5 scale):
 
 ---
 
-## Common Implementation Challenges
+## Expected Implementation Challenges
 
 ### Challenge 1: Maintaining Document Freshness
 
@@ -499,7 +499,7 @@ Each response scored on 6 dimensions (1-5 scale):
 
 ## Best Practices
 
-### For Content Creators
+### For Content Designers/UX Writers
 
 **When creating documentation:**
 1. Use clear section headers
@@ -527,23 +527,6 @@ Each response scored on 6 dimensions (1-5 scale):
 
 ---
 
-### For Product Managers
-
-**Feature priorities:**
-1. Core accuracy and citations (Phase 1)
-2. Edge case handling (Phase 2)
-3. Feedback collection (Phase 3)
-4. Admin dashboard (Phase 4)
-5. Analytics and improvement (Phase 5)
-
-**Success criteria:**
-- 70%+ questions answered with high confidence
-- 75%+ user satisfaction
-- Documentation gaps filled within 30 days
-- Zero outdated info presented as current
-
----
-
 ## Resources & File Locations
 
 ### Complete File List
@@ -551,7 +534,7 @@ Each response scored on 6 dimensions (1-5 scale):
 **Main documentation:**
 - `README.md` - Project overview
 - `INDEX.md` - Navigation guide
-- `portfolio-summary.md` - Executive summary
+- `project-summary.md` - Executive summary
 - `QUICK-START.md` - Quick implementation guide
 
 **Knowledge Base:** (11 files)
