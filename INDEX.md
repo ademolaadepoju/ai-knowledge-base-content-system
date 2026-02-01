@@ -8,12 +8,12 @@
 
 **New to this project?** Read these in order:
 
-1. **[README.md](README.md)** (5 min read)
+1. **[README.md](README.md)** 
    - Project overview
    - What problem this solves
    - Key features and results
 
-2. **[project-summary.md](project-summary.md)** (10 min read)
+2. **[project-summary.md](project-summary.md)** 
    - Executive summary
    - Skills demonstrated
    - Business impact
