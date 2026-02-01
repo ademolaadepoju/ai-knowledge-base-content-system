@@ -77,7 +77,7 @@ testing/
 2. [testing/test-results.md](testing/test-results.md) - See quality validation
 3. [content-system/01-response-templates.md](content-system/01-response-templates.md) - Example of the work
 
-**Key takeaway:** Systems thinking + enterprise-ready quality
+**Key takeaway:** Systems thinking + content desgin framework-ing
 
 ---
 
