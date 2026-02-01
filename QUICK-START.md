@@ -4,8 +4,6 @@
 
 ---
 
-## 5-Minute Understanding
-
 ### What This Is
 A content design system that makes AI assistants handle imperfect documentation safely:
 - Warns when information is outdated
