@@ -1,12 +1,12 @@
 # AI Knowledge Base Content System
 
-**A comprehensive content design framework for AI-powered customer support that handles real-world complexity: outdated documentation, conflicting policies, and knowledge gaps.**
+**A practical content design framework for an AI-powered help center that can handle real-world messiness like outdated docs, conflicting policies, and missing information. Since most of my experience is in payments, I built this project around a fictional wallet called GothPay, with sample docs to match.**
 
 ---
 
 ## What This Is
 
-A complete, production-ready system for designing AI assistant responses that:
+A system for designing AI assistant responses that:
 - ✅ Always cites sources with update dates
 - ✅ Warns users about outdated information
 - ✅ Acknowledges conflicts between sources
