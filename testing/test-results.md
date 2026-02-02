@@ -2,7 +2,7 @@
 
 ## Test Execution Summary
 
-This document shows actual responses to the test scenarios and evaluates them against success criteria.
+This document shows responses to the test scenarios and evaluates them against success criteria.
 
 ---
 
