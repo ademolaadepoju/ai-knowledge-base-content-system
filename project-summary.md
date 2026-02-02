@@ -1,4 +1,4 @@
-# GothPay AI Knowledge Base Assistant - Portfolio Project Summary
+# GothPay AI Knowledge Base Assistant - Project Summary
 
 **Project Type:** Content Design System for AI-Powered Customer Support  
 **Role:** Content Designer & Systems Architect  
@@ -10,11 +10,12 @@
 ## Executive Summary
 
 Built a complete content design system for an AI-powered knowledge base assistant that handles real-world complexity: outdated documentation, conflicting policies, knowledge gaps, and edge cases. 
+
 **The Challenge:** Most AI assistants fail when faced with imperfect documentation—they either hallucinate, present outdated information as current, or can't handle conflicts between sources.
 
 **The Solution:** A systematic approach to content structure, source evaluation, and response generation that makes AI assistants safer and more trustworthy for enterprise use.
 
-**The Result:** A framework that correctly handles 100% of test scenarios including outdated sources, policy conflicts, and knowledge gaps—with proper warnings and citations.
+**The Result:** A framework that correctly handles multiple test scenarios including outdated sources, policy conflicts, and knowledge gaps—with proper warnings and citations.
 
 ---
 
