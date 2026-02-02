@@ -1,6 +1,5 @@
 # User Feedback & Admin Tools - Microcopy Guide
 **Version:** 1.0  
-**Last Updated:** February 1, 2026  
 **Purpose:** Copy patterns for feedback collection and content improvement workflows
 
 ---
