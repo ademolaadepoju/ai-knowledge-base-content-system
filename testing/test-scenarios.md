@@ -1,6 +1,5 @@
 # AI Knowledge Base Assistant - Test Scenarios
 **Version:** 1.0  
-**Last Updated:** February 1, 2026  
 **Purpose:** Validation test cases for the GothPay AI assistant
 
 ---
