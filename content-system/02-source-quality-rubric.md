@@ -1,6 +1,5 @@
 # Source Quality Rubric & Citation Guidelines
 **Version:** 1.0  
-**Last Updated:** February 1, 2026  
 **Purpose:** Decision framework for evaluating source reliability and constructing citations
 
 ---
