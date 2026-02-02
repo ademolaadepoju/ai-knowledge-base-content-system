@@ -1,4 +1,4 @@
-# AI Knowledge Base Content System for GothPay
+# AI Knowledge Base Content System
 
 **A comprehensive content design framework for AI-powered customer support that handles real-world complexity: outdated documentation, conflicting policies, and knowledge gaps.**
 
