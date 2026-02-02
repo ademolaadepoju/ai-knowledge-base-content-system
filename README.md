@@ -278,7 +278,8 @@ Each response scored on:
 
 ## About Project Owner
 
-**Author:** Ademola Adepoju 
+**Author:** Ademola Adepoju
+
 **Role:** Senior Content Designer (UX, Systems Design, AI Explainability) 
 
 **Contact:**
