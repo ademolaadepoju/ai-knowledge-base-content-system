@@ -1,7 +1,4 @@
 # AI Knowledge Base Assistant - Test Results 
-**System Version:** 1.0
-
----
 
 ## Test Execution Summary
 
