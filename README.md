@@ -40,7 +40,7 @@ A complete, production-ready system for designing AI assistant responses that:
 │   └── 03-feedback-and-admin-tools.md
 │
 ├── testing/                    # Validation & quality assurance
-│   ├── test-scenarios.md       # 30+ test cases across 10 categories
+│   ├── test-scenarios.md       # test cases across 10 categories
 │   └── test-results.md         # Scored results with examples
 │
 ├── project-summary.md        # Executive summary for project
