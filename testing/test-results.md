@@ -46,8 +46,6 @@ I assumed you paid with a card. If you paid with bank account or GothPay balance
 ✅ No hedging language  
 ✅ Under 200 words (actual: 98 words)  
 
-**Comments:**
-Perfect execution. Demonstrates the ideal response pattern - immediate answer, helpful detail, proper citation, stated assumption.
 
 ---
 
@@ -95,9 +93,6 @@ Based on:
 ✅ Notes document is almost 2 years old  
 ✅ Still helpful despite age  
 
-**Comments:**
-Exemplary handling of outdated content. The warning is prominent, the recommendation to verify is clear, and the response still provides value while acknowledging limitations. This is exactly how AI should handle potentially stale information.
-
 ---
 
 ## TEST 3.1: Cryptocurrency Refunds (Conflicting Policies)
@@ -140,8 +135,6 @@ Based on:
 ✅ Makes it crystal clear crypto = no refunds  
 ✅ Cites both sources  
 
-**Comments:**
-Excellent conflict resolution. The structure makes it immediately clear that different rules apply, and the explanation helps users understand why rather than just stating rules. The warning about using USD for purchases is valuable user guidance.
 
 ---
 
@@ -190,8 +183,6 @@ Would you like me to explain any of these security features?
 ✅ Provides clear next steps  
 ✅ Offers related alternatives  
 
-**Comments:**
-Perfect handling of a knowledge gap. Doesn't fabricate features, provides clear escalation path, and goes above-and-beyond by offering related alternatives that ARE documented. The follow-up question invitation is a nice touch.
 
 ---
 
@@ -242,12 +233,10 @@ I know this isn't the outcome you hoped for. Is there anything else I can help y
 ✅ Educational (prevention tips)  
 ✅ Realistic about limitations  
 
-**Comments:**
-Outstanding response to a difficult situation. The empathy ("I understand this is frustrating," "I know this isn't the outcome you hoped for") softens the bad news. The cash analogy helps users understand why. Prevention tips are practical and specific. Follow-up question invitation is appropriate.
 
 ---
 
-## TEST 7.1: Why Can't P2P Be Reversed (Policy Explanation)
+## TEST 6.1: Why Can't P2P Be Reversed (Policy Explanation)
 
 **User Query:** "Why can't GothPay reverse peer-to-peer payments?"
 
@@ -291,8 +280,6 @@ Based on:
 ✅ Helps user understand rationale  
 ✅ Acknowledges user's perspective  
 
-**Comments:**
-Excellent policy explanation. Goes beyond stating rules to help users understand the reasoning. The comparison to industry standards helps users see this isn't arbitrary. The distinction between P2P and merchant transactions at the end is valuable education.
 
 ---
 
