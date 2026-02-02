@@ -260,8 +260,8 @@ Each response scored on:
 **Role:** Senior Content Designer (UX, Systems Design, AI Explainability) 
 
 **Contact:**
-- LinkedIn: [profile](https://www.linkedin.com/in/adepoju-ademola/)
-- Email: [contact method](enochwrites@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/adepoju-ademola/)
+- [Email](enochwrites@gmail.com)
 
 
 ---
