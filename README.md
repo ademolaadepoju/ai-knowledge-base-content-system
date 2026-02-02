@@ -216,29 +216,6 @@ Each response scored on:
 
 ---
 
-## Key Innovations
-
-1. **Age-Aware Citations**
-   - Automatic freshness warnings based on document age
-   - Prevents users from acting on stale information
-
-2. **Explicit Conflict Resolution**
-   - Acknowledges when sources disagree
-   - Helps users understand which rule applies
-
-3. **Honest Uncertainty**
-   - Admits when documentation is missing
-   - Never fabricates information
-
-4. **Tiered Trust System**
-   - Different confidence levels for different sources
-   - Prioritization rules when multiple sources available
-
-5. **Template-Based Consistency**
-   - 10 templates for different scenarios
-   - Ensures quality across all responses
-
-
 ## Contributing
 
 ### Found an Issue?
@@ -258,7 +235,7 @@ Each response scored on:
 
 ---
 
-## License & Usage
+## Permissions
 
 **Free to use, adapt, and share.**
 
