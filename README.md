@@ -182,7 +182,7 @@ Each response scored on:
 - Building AI product content
 - Need frameworks for messy real-world docs
 
-### UX Writers
+### UX/Technical Writers
 - Working on chatbots or assistants
 - Want structured approach to response design
 - Need quality validation methods
