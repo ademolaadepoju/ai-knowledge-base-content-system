@@ -43,7 +43,7 @@ A complete, production-ready system for designing AI assistant responses that:
 │   ├── test-scenarios.md       # 30+ test cases across 10 categories
 │   └── test-results.md         # Scored results with examples
 │
-├── portfolio-summary.md        # Executive summary for portfolio
+├── project-summary.md        # Executive summary for project
 ├── QUICK-START.md             # Implementation guide
 └── README.md                  # This file
 ```
