@@ -276,16 +276,15 @@ Each response scored on:
 
 ---
 
-## About This Project
+## About Project Owner
 
-**Created:** February 2026  
 **Author:** Ademola Adepoju 
-**Status:** Complete, production-ready framework  
+**Role:** Senior Content Designer (UX, Systems Design, AI Explainability) 
 
 **Contact:**
-- Portfolio: [link]
-- LinkedIn: [profile]
-- Questions: [contact method]
+- LinkedIn: [profile](https://www.linkedin.com/in/adepoju-ademola/)
+- Email: [contact method](enochwrites@gmail.com)
+
 
 ---
 
