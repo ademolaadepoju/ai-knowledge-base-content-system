@@ -225,7 +225,7 @@ Your suggestion will be reviewed by our content team.
 📄 Source Suggestion
 
 From: user@email.com
-Date: Feb 1, 2026
+Date: Jan 25, 2025
 Question: "What are cryptocurrency tax requirements?"
 
 Suggested source:
