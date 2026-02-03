@@ -614,7 +614,3 @@ Based on:
 • Refund Policy (updated January 2025) — explains 3-5 days to card issuer
 • Common Payment Issues FAQ (updated January 2025) — notes additional bank processing time
 ```
-
----
-
-*Version 1.0 | Last updated: February 1, 2026*
