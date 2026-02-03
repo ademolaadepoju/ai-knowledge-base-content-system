@@ -710,7 +710,3 @@ Before finalizing any response, verify:
 ✅ **Tone is helpful** (not robotic or defensive)  
 ✅ **Length is reasonable** (concise but complete)  
 ✅ **Caveats included** (outdated info flagged, limitations noted)
-
----
-
-*Version 1.0 | Last updated: February 1, 2026*
